@@ -1,1 +1,4 @@
-spring.application.name=readmate
+spring:
+  profiles:
+    active: dev
+
